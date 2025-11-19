@@ -9,37 +9,50 @@ Music lovers often struggle to share their curated playlists or discover niche p
 ## What This Repository Contains
 This repo consolidates the PM artifacts I produced or led during development:
 
-Product vision, problem statement, and goal definition
-
-User personas (e.g., Simon the indie explorer, Aimee the café owner) 
-
-Complete user story set (308 implemented stories + 309 planned for social features) 
-
-Requirements & acceptance criteria
-
-Updated feature specifications based on evolving constraints (e.g., Spotify rate-limit issues) 
-
-Activity diagrams, state flows, and UI prototypes
-
-Data model revisions & rationale
-
-Non-functional & technical requirements
-
-Retrospectives, open questions, and iteration decisions
+- Product vision, problem statement, and goal definition
+- User personas (e.g., Simon the indie explorer, Aimee the café owner) 
+- Complete user story set (308 implemented stories + 309 planned for social features) 
+- Requirements & acceptance criteria
+- Updated feature specifications based on evolving constraints (e.g., Spotify rate-limit issues) 
+- Activity diagrams, state flows, and UI prototypes
+- Data model revisions & rationale
+- Non-functional & technical requirements
+- Retrospectives, open questions, and iteration decisions
+  
 ## My PM Responsibilities Included
-Leading product vision, scoping, and feasibility evaluation
+- Leading product vision, scoping, and feasibility evaluation
+- Documenting user stories and acceptance criteria
+- Prioritizing features and adjusting scope based on API limitations (Spotify rate limits)
+- Coordinating between dev roles, UI/UX, and backend contributors
+- Managing iterative updates, schema changes, and release planning
+- Ensuring alignment between personas, requirements, and delivered functionality
+- Helping define the data model, dashboard experience, and social features roadmap
 
-Documenting user stories and acceptance criteria
+## Project Management Workflow
 
-Prioritizing features and adjusting scope based on API limitations (Spotify rate limits)
+I organized the team’s work using **GitHub Projects**, which we used as a lightweight equivalent to Jira.  
+This allowed us to:
 
-Coordinating between dev roles, UI/UX, and backend contributors
+- Break down features into trackable tasks  
+- Assign responsibilities to team members  
+- Maintain Kanban-style workflow states (To Do, In Progress, Done)  
+- Document user stories, acceptance criteria, and technical notes  
+- Track updates on the 308 user stories included in the core implementation  
+- Communicate blockers and re-prioritize tasks based on Spotify API limitations  
 
-Managing iterative updates, schema changes, and release planning
+GitHub Projects served as our central source of truth and helped structure the team’s sprint-like workflow throughout the quarter.
 
-Ensuring alignment between personas, requirements, and delivered functionality
-
-Helping define the data model, dashboard experience, and social features roadmap
 ## Tech Stack & Platform Context
 The engineering team implemented Spinterest using the MERN stack (MongoDB, Express, React, Node), paired with the Spotify API for user listening data, playlists, and authentication.
 My role involved guiding how these technical choices mapped to product feasibility and long-term goals. 
+
+## Project Status & Limitations
+
+This project was developed as an academic team project and was primarily run locally during implementation. We did not complete a fully automated CI/CD pipeline or stable cloud deployment within the course timeline.
+
+- Frontend and backend were run locally for demos.
+- We explored deployment using Azure Static Web Apps and a cloud-hosted MongoDB cluster but did not reach a production-ready deployment.
+- CI/CD integration (e.g., automated builds/tests on push) remained partially planned but not fully implemented.
+
+This repository focuses on the product management process, artifacts, and decisions, including how we scoped, prioritized, and adapted the work under these constraints.
+
