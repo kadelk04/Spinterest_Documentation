@@ -10,36 +10,22 @@ Music lovers often struggle to share their curated playlists or discover niche p
 This repo consolidates the PM artifacts I produced or led during development:
 
 - Product vision, problem statement, and goal definition
-
 - User personas (e.g., Simon the indie explorer, Aimee the café owner) 
-
 - Complete user story set (308 implemented stories + 309 planned for social features) 
-
 - Requirements & acceptance criteria
-
 - Updated feature specifications based on evolving constraints (e.g., Spotify rate-limit issues) 
-
 - Activity diagrams, state flows, and UI prototypes
-
 - Data model revisions & rationale
-
 - Non-functional & technical requirements
-
 - Retrospectives, open questions, and iteration decisions
   
 ## My PM Responsibilities Included
 - Leading product vision, scoping, and feasibility evaluation
-
 - Documenting user stories and acceptance criteria
-
 - Prioritizing features and adjusting scope based on API limitations (Spotify rate limits)
-
 - Coordinating between dev roles, UI/UX, and backend contributors
-
 - Managing iterative updates, schema changes, and release planning
-
 - Ensuring alignment between personas, requirements, and delivered functionality
-
 - Helping define the data model, dashboard experience, and social features roadmap
 
 ## Project Management Workflow
