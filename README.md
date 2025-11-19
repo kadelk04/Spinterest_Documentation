@@ -9,37 +9,37 @@ Music lovers often struggle to share their curated playlists or discover niche p
 ## What This Repository Contains
 This repo consolidates the PM artifacts I produced or led during development:
 
-Product vision, problem statement, and goal definition
+- Product vision, problem statement, and goal definition
 
-User personas (e.g., Simon the indie explorer, Aimee the café owner) 
+- User personas (e.g., Simon the indie explorer, Aimee the café owner) 
 
-Complete user story set (308 implemented stories + 309 planned for social features) 
+- Complete user story set (308 implemented stories + 309 planned for social features) 
 
-Requirements & acceptance criteria
+- Requirements & acceptance criteria
 
-Updated feature specifications based on evolving constraints (e.g., Spotify rate-limit issues) 
+- Updated feature specifications based on evolving constraints (e.g., Spotify rate-limit issues) 
 
-Activity diagrams, state flows, and UI prototypes
+- Activity diagrams, state flows, and UI prototypes
 
-Data model revisions & rationale
+- Data model revisions & rationale
 
-Non-functional & technical requirements
+- Non-functional & technical requirements
 
 Retrospectives, open questions, and iteration decisions
 ## My PM Responsibilities Included
-Leading product vision, scoping, and feasibility evaluation
+- Leading product vision, scoping, and feasibility evaluation
 
-Documenting user stories and acceptance criteria
+- Documenting user stories and acceptance criteria
 
-Prioritizing features and adjusting scope based on API limitations (Spotify rate limits)
+- Prioritizing features and adjusting scope based on API limitations (Spotify rate limits)
 
-Coordinating between dev roles, UI/UX, and backend contributors
+- Coordinating between dev roles, UI/UX, and backend contributors
 
-Managing iterative updates, schema changes, and release planning
+- Managing iterative updates, schema changes, and release planning
 
-Ensuring alignment between personas, requirements, and delivered functionality
+- Ensuring alignment between personas, requirements, and delivered functionality
 
-Helping define the data model, dashboard experience, and social features roadmap
+- Helping define the data model, dashboard experience, and social features roadmap
 ## Tech Stack & Platform Context
 The engineering team implemented Spinterest using the MERN stack (MongoDB, Express, React, Node), paired with the Spotify API for user listening data, playlists, and authentication.
 My role involved guiding how these technical choices mapped to product feasibility and long-term goals. 
