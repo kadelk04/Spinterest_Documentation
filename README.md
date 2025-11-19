@@ -41,6 +41,21 @@ This repo consolidates the PM artifacts I produced or led during development:
 - Ensuring alignment between personas, requirements, and delivered functionality
 
 - Helping define the data model, dashboard experience, and social features roadmap
+
+## Project Management Workflow
+
+I organized the team’s work using **GitHub Projects**, which we used as a lightweight equivalent to Jira.  
+This allowed us to:
+
+- Break down features into trackable tasks  
+- Assign responsibilities to team members  
+- Maintain Kanban-style workflow states (To Do, In Progress, Done)  
+- Document user stories, acceptance criteria, and technical notes  
+- Track updates on the 308 user stories included in the core implementation  
+- Communicate blockers and re-prioritize tasks based on Spotify API limitations  
+
+GitHub Projects served as our central source of truth and helped structure the team’s sprint-like workflow throughout the quarter.
+
 ## Tech Stack & Platform Context
 The engineering team implemented Spinterest using the MERN stack (MongoDB, Express, React, Node), paired with the Spotify API for user listening data, playlists, and authentication.
 My role involved guiding how these technical choices mapped to product feasibility and long-term goals. 
