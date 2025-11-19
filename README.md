@@ -43,3 +43,14 @@ Helping define the data model, dashboard experience, and social features roadmap
 ## Tech Stack & Platform Context
 The engineering team implemented Spinterest using the MERN stack (MongoDB, Express, React, Node), paired with the Spotify API for user listening data, playlists, and authentication.
 My role involved guiding how these technical choices mapped to product feasibility and long-term goals. 
+
+## Project Status & Limitations
+
+This project was developed as an academic team project and was primarily run locally during implementation. We did not complete a fully automated CI/CD pipeline or stable cloud deployment within the course timeline.
+
+- Frontend and backend were run locally for demos.
+- We explored deployment using Azure Static Web Apps and a cloud-hosted MongoDB cluster but did not reach a production-ready deployment.
+- CI/CD integration (e.g., automated builds/tests on push) remained partially planned but not fully implemented.
+
+This repository focuses on the product management process, artifacts, and decisions, including how we scoped, prioritized, and adapted the work under these constraints.
+
