@@ -13,17 +13,11 @@ Product vision, problem statement, and goal definition
 
 User personas (e.g., Simon the indie explorer, Aimee the café owner) 
 
-308 Product Spec
-
 Complete user story set (308 implemented stories + 309 planned for social features) 
-
-308 Product Spec
 
 Requirements & acceptance criteria
 
 Updated feature specifications based on evolving constraints (e.g., Spotify rate-limit issues) 
-
-308 Product Spec
 
 Activity diagrams, state flows, and UI prototypes
 
