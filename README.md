@@ -25,7 +25,8 @@ This repo consolidates the PM artifacts I produced or led during development:
 
 - Non-functional & technical requirements
 
-Retrospectives, open questions, and iteration decisions
+- Retrospectives, open questions, and iteration decisions
+  
 ## My PM Responsibilities Included
 - Leading product vision, scoping, and feasibility evaluation
 
